@@ -1,7 +1,3 @@
-Here's a clean, well-structured, and **resume/portfolio-worthy GitHub README** for your **Stick Hero** project, tailored to showcase your skills to potential employers or collaborators:
-
----
-
 # 🕹️ Stick Hero – JavaFX Platformer Game
 
 A fully interactive 2D platformer game built in **Java** using **JavaFX**, featuring real-time animations, physics-inspired mechanics, score tracking, and user input handling. Inspired by the popular Stick Hero mobile game, this project demonstrates core software engineering principles in game development, UI design, and event-driven programming.
