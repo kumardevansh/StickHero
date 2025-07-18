@@ -44,8 +44,6 @@ A fully interactive 2D platformer game built in **Java** using **JavaFX**, featu
 | --------------------------- | ----------------------------- | ----------------------------- |
 | ![Welcome](img/welcome.png) | ![Gameplay](img/gameplay.png) | ![GameOver](img/gameover.png) |
 
-*(You can add your own screenshots in the `/img` directory and update the paths.)*
-
 ---
 
 ## 🎮 How to Play
