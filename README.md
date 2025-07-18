@@ -105,5 +105,3 @@ StickHero/
 3. Make sure JavaFX is set up in your project libraries
 4. Run `Main.java` as a Java application
 5. Make sure the `/img` and `/files` folders are accessible in your working directory
-
----
